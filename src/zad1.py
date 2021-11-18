@@ -2,8 +2,7 @@ class FizzBuzz:
 
 
     def gameWithDocString(self,num):
-        """Takes two integers and adds them together to produce the result
-        # >>> c = Calculate()
+        """Takes integer and returns "Fizz" if it's divisible by 3, "Buzz" if it's divisible by 5 and "FizzBuzz" if it's divisible by 3 and 5.
         >>> f.gameWithDocString(7)
         '"7"'
         >>> f.gameWithDocString(-11)
